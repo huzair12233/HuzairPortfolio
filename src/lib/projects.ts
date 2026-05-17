@@ -53,7 +53,7 @@ export const projects: Project[] = [
       "Designed, developed, and deployed the official website for Al-Qalam School. Currently live and serving real visitors. End-to-end ownership from design to deployment.",
     stack: ["JavaScript", "React", "Vercel"],
     live: "https://alqalamieschool.com/",
-    image: "/images/alqalam-preview.png",
+    image: "/images/school.PNG",
     featured: true,
     isLive: true,
   },
