@@ -142,7 +142,7 @@ export function Hero() {
           transition={{ duration: 0.6, ease: EASE, delay: 0.75 }}
           className="mb-10 max-w-[620px] text-[17px] leading-[1.6] text-muted"
         >
-          CS graduate with dual degrees from JNTUH and IIT Madras. I specialize
+          CS graduate with dual degrees from JNTUH and IIT Madras(Foundation). I specialize
           in shipping end-to-end ML applications, generative AI tools, and
           modern web platforms — from synthetic data generators to live client
           websites.
